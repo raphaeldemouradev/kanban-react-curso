@@ -1,5 +1,5 @@
 # kanban-react-curso
 
-<p>Feito no Curso de React para Iniciantes.</p>
+<br>Feito no Curso de React para Iniciantes.</br>
 
-<p>Link para o projeto no CodeSandbox [aqui](https://rrmpll.csb.app/)
+<br>Link para o projeto no CodeSandbox [aqui](https://rrmpll.csb.app/)
