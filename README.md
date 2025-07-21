@@ -1,6 +1,6 @@
 # kanban-react-curso
 <div> 
-   <p font-weigth: 700px>Feito no Curso de React para Iniciantes.</p>
+   <u>Feito no Curso de React para Iniciantes.</u>
 </div>
 
 Link para o projeto no CodeSandbox [aqui](https://rrmpll.csb.app/)
