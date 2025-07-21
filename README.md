@@ -1,2 +1,3 @@
 # kanban-react-curso
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://rrmpll.csb.app/)
