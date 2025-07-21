@@ -1,7 +1,7 @@
 # kanban-react-curso
 
-Feito no Curso de React para Iniciantes.
+<p>Feito no Curso de React para Iniciantes.</p>
 .
 .
 .
-Link para o projeto no CodeSandbox [aqui](https://rrmpll.csb.app/)
+<p>Link para o projeto no CodeSandbox [aqui](https://rrmpll.csb.app/) </p>
